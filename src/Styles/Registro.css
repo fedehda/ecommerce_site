@@ -1,0 +1,11 @@
+#error{
+    color: red;
+    font-weight: bolder;
+}
+
+Form{
+    width: 30%;
+    position: relative;
+    left: 100px;
+}
+
